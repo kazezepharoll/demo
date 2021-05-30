@@ -5,4 +5,7 @@ pasta
 indomie
 chicken fry
 
+pizza
+beans
+
 thank you
